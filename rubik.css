@@ -33,8 +33,9 @@ p{
 .erdekesseg{
   font-size: 70%;
   padding: 7px;
-  font-weight: normal;
-  background-color: white;
+  font-weight: bold;
+  background-color:lightgrey;
+  font-style: italic;
 }
 
 li{
