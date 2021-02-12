@@ -1,5 +1,6 @@
 body{
   background-image: url(hatterkocka.png);
+  background-color: #ededc1;
   background-size: 70px 70px;
   background-repeat: repeat-y;
   background-position: right top;
@@ -27,6 +28,7 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  background-color: white;
 }
 
 li{
