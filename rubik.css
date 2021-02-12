@@ -11,7 +11,10 @@ body{
 }
 
 #cimkep{
-  float:left;  
+  float:left;
+  height: 170px;
+  width: auto;
+
 }
 
 h1{
